@@ -1,4 +1,5 @@
-<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/823dbda9-3c73-4f00-aed3-faf1c55d2cbb" />👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 This project is perfect for:
@@ -39,7 +40,7 @@ Data cleaning
 
 Connection to SQL Database
 
-Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
+2. Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
 
 Create a database in SQL
 
@@ -49,7 +50,7 @@ Open customer_behavior_sql_queries.sql
 
 Answer Business Questions using SQL Queries
 
-Connect the SQL Database to Power BI
+3. Connect the SQL Database to Power BI
 
 Open customer_behavior_dashboard.pbix
 
@@ -57,17 +58,17 @@ Create interactive dashboard in Power BI
 
 Create Project Report and Presentation
 
-Create project report
+4. Create project report
 
 Build presentation deck using Gamma AI
 
-Follow along with the YouTube video for full walkthrough. 👨‍💼
+6. Follow along with the YouTube video for full walkthrough. 👨‍💼
 
 📜 License
 MIT — feel free to fork, star, and use in your portfolio.
 
 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty, a Data Analyst & Content Creator. I break down complex data topics into simple, practical content that actually helps you land a job.
+Hey, I’m Manish Kumar, a Data Analyst. I break down complex data topics into simple, practical content that actually helps you land a job.
 
 🚀 Stay Connected & Join my Data Community
 If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
